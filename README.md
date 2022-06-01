@@ -1,11 +1,12 @@
 # Data_Augmentation
 
 ## 概要
-[公式ブログ](https://soroban.highreso.jp/?post_type=blog&p=2433)
+[公式ブログ](https://soroban.highreso.jp/?post_type=blog&p=2433)用のリポジトリです。
 
 ## 使用方法
 1. インスタンスにgitをインストール
 ```
+sudo apt update
 sudo apt install -y git
 ```
 
